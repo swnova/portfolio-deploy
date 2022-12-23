@@ -6,6 +6,11 @@ React Challenge: React Portfolio
 ## Description 
 
 In this application I created a portfolio using REACT showcasing past projects, and a small about me section.
+### Deployed Application
+https://swnova.github.io/portfolio-deploy/#about
+
+<img width="779" alt="Screen Shot 2022-12-22 at 9 25 38 PM" src="https://user-images.githubusercontent.com/113868025/209276575-e2b6983d-c130-448f-9cd4-031c93b6ab7b.png">
+
 
 ## User Story
 ``AS AN employer looking for candidates with experience building single-page applications
@@ -37,9 +42,7 @@ THEN I receive a notification if I have entered an invalid email address
 WHEN I am presented with the Resume section
 THEN I see a link to a downloadable resume and a list of the developer’s proficiencies
 WHEN I view the footer
-THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter) `
+THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter) ````````
 
-### Deployed Application
-https://swnova.github.io/portfolio-deploy/#about
 
-<img width="779" alt="Screen Shot 2022-12-22 at 9 25 38 PM" src="https://user-images.githubusercontent.com/113868025/209276575-e2b6983d-c130-448f-9cd4-031c93b6ab7b.png">
+
