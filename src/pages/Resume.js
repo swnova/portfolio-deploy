@@ -5,6 +5,9 @@ export default function Resume() {
     <div>
       <h1>Resume</h1>
       <p>download my resume </p>
+      {/* <div>
+        <link to={{resume: "https://profile.indeed.com/document/view"}} target="_blank"> CHeck it Out</link>
+      </div> */}
       <p>
         competencies 
         -CSS
